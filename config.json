@@ -1,8 +1,8 @@
 {
 	"client": {
 		"host": "ANONIM4343.aternos.me",
-		"port": "35850",
-		 username": "ilyasın zorla kurduğu bot"
+		"port": 35850,
+		"username": "ilyasın zorla kurduğu bot"
 	},
 	
 	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
